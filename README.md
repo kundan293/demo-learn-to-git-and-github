@@ -1,0 +1,2 @@
+# demo-learn-to-git-and-github
+this is main purpose to learn  git and github
